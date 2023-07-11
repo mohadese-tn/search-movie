@@ -1,4 +1,4 @@
-# serach-movie
+# search-movie
 
 
 1- Project introduction: Search movie web - A site to search desired movie and got some information and details about that.
